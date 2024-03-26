@@ -27,6 +27,9 @@
 4. chore - 코드 외의 설정을 바꿈
 5. docs - 문서화
 6. test - 테스트 코드
+
+<https://github.com/jiani1013/jiani1013>
+
    
 
 
